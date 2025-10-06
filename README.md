@@ -5,7 +5,6 @@
 ![CUB3D](https://img.shields.io/badge/CUB3D-Raycasting%20Engine-blue)
 ![Language](https://img.shields.io/badge/Language-C-orange)
 ![Graphics](https://img.shields.io/badge/Graphics-MiniLibX-green)
-![License](https://img.shields.io/badge/License-42%20School-red)
 
 *A 3D rendering engine based on raycasting, inspired by Wolfenstein 3D*
 
